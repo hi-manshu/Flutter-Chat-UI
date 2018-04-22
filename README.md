@@ -11,7 +11,7 @@ For help getting started with Flutter, view our online
 
 This is how the it looks like on android device
 <br/>
-<img src="https://github.com/hi-manshu/Flutter-Calculator/blob/master/chat.jpg" width="40%">.
+<img src="https://github.com/hi-manshu/Flutter-Chat-UI/blob/master/chat.jpg" width="40%">.
 
 ### To Run the app in your local machine
 
